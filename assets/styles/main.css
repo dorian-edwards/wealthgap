@@ -9,6 +9,7 @@ html {
   font: 62.5%/1.2 'Montserrat', sans-serif;
   /* color: #051923; */
   color: var(--primary-drk-alt);
+  scroll-behavior: smooth;
 }
 
 * {
